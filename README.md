@@ -1,8 +1,8 @@
 ### Hi there, Ahmad Haidar 👋
 
-I'm a software engineer :man_technologist: who is passionate about frontend technologies 
+I'm a software engineer :man_technologist: who is passionate about backend technologies
 
-- 🌱 I’m currently learning Frontend Development
+- 🌱 I’m currently learning Backend Development
 - 📫 How to reach me: ahmadhaidaralbaqir.official@gmail.com
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=s00y444&show_icons=true&theme=light)
